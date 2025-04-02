@@ -1,21 +1,35 @@
-<<<<<<< HEAD
-# e-waste-disposal-guide
-An AR-based, AI-powered e-waste disposal guide for sustainable recycling. Scan items, find nearby recycling centers, and track your impact. Reduce e-waste, protect the planet! 🌍💚
-=======
-# ewaste
+# E-Waste Disposal Guide
 
-A new Flutter project.
+An **AR-based, AI-powered** e-waste disposal guide for sustainable recycling.  
+📸 **Scan items** → 🏢 **Find nearby recycling centers** → 🌱 **Track your impact**  
+
+## Features
+- ✅ **AI-powered Scanner** – Detects e-waste items using Machine Learning
+- ✅ **Augmented Reality (AR)** – Interactive recycling experience
+- ✅ **Nearby Recycling Centers** – Locate proper disposal points
+- ✅ **Impact Tracker** – Monitor your contribution to sustainability
 
 ## Getting Started
+This project is built using **Flutter**.
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+- Install [Flutter](https://docs.flutter.dev/get-started/install)
+- Clone this repository:
+  ```sh
+  git clone https://github.com/yourusername/e-waste-disposal
+  cd e-waste-disposal
+  ```
+- Run the app:
+  ```sh
+  flutter pub get
+  flutter run
+  ```
 
-A few resources to get you started if this is your first Flutter project:
+## Resources for Flutter Beginners
+- [Flutter Codelab](https://docs.flutter.dev/get-started/codelab)
+- [Flutter Cookbook](https://docs.flutter.dev/cookbook)
+- [Official Flutter Docs](https://docs.flutter.dev/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Forked From
+This project was **forked from** [tejasgunjal021/e-waste-disposal](https://github.com/tejasgunjal021/e-waste-disposal) and has been **modified and improved**.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 743705a (1.0.1)
