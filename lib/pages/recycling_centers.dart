@@ -15,7 +15,7 @@ class _RecyclingCentersMapState extends State<RecyclingCentersMap> {
   String errorMessage = '';
 
   final LatLng _initialPosition = const LatLng(20.5937, 78.9629); // Center of India
-  final String googleApiKey = "AIzaSyDHGQdZDvI6PgUFChmZnss-Qp5wMaPOPyY"; // Replace with your Google API key
+  final String googleApiKey = ""; // Replace with your Google API key
 
   List<String> cities = [
     // Metro Cities
